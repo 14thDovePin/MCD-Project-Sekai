@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 26,  // Minecraft 1.20.4
+    "pack_format": 26,
     "description": "A data pack I made for my fiance and I.",
     "author": "14thDovePin",
     "website": "https://github.com/14thDovePin",
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 }
