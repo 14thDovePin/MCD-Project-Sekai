@@ -1,0 +1,20 @@
+Initial Commit
+
+Added a feature flying trails for people gliding with an elytra.
+
+- Added the following files & directories:
+  + COMMITLOGS.txt
+  + LICENSE
+  + README.md
+  + projectSEKAI/
+    + pack.mcmeta
+    + data/
+      + flight_trail/functions
+        + create_trail.mcfunction
+      + minecraft/tags/functions
+        + tick.json
+- License used is the MIT License.
+- Added contents to `README.md`.
+- `pack.mcmeta` Added required details to be recognized by the game.
+- `create_trail.mcfunction` Added the function to do specified feature.
+- `tick.json` Added code to call the `create_trail` function every tick.
