@@ -1,3 +1,9 @@
+Updated readme file.
+
+- Updated `README.md`.
+
+
+
 Feature update & optimization.
 
 Particles are now twice as dense & half as spreaded.
