@@ -1,3 +1,15 @@
+Feature update & optimization.
+
+Particles are now twice as dense & half as spreaded.
+Players are now required to hold firework rockets
+on their main hand to show flying particles.
+
+- Updated `create_trail.mcfunction`.
+- Updated version in `pack.mcmeta`.
+- Updated `README.md`.
+
+
+
 Feature update.
 
 Particles of flying players are now visible 512 blocks away
